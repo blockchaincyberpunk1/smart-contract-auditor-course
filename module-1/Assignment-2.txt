@@ -1,0 +1,33 @@
+Smart Contract Simulator
+
+Objective: The objective of this assignment is to give students hands-on experience in simulating the execution of a basic smart contract. This activity helps students understand how smart contracts work and allows them to visualize the impact of different inputs and parameters.
+
+Instructions:
+
+Smart Contract Selection:
+
+Provide students with a simple smart contract written in a blockchain programming language like Solidity. The contract should have clearly defined functions and parameters.
+Simulator Development:
+
+Instruct students to create a Python program that serves as a smart contract simulator.
+The simulator should allow users to:
+Input values and parameters required by the smart contract functions.
+Execute the smart contract functions.
+View the resulting state changes, transactions, or outputs.
+Students should implement logic that mimics the execution of the smart contract's functions and updates the contract's state accordingly.
+Documentation:
+
+Require students to document their Python code thoroughly. This documentation should include comments explaining the purpose and functionality of each part of the simulator.
+Simulation and Analysis:
+
+Ask students to use their simulator to execute the smart contract with different inputs and parameters.
+Instruct students to analyze and document the outcomes of these simulations, highlighting how the contract's state changes with varying inputs.
+Submission:
+
+Request students to submit both their Python code and a report summarizing their simulation results and observations.
+Grading Criteria:
+
+Implementation: Assess the correctness and functionality of the simulator.
+Documentation: Evaluate the quality and clarity of code comments and explanations.
+Analysis: Review the depth of analysis in the simulation results and observations.
+Presentation: Consider the organization and presentation of the report.

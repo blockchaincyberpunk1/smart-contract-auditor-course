@@ -1,0 +1,40 @@
+Token Creation in Solidity
+
+Objective: The objective of this assignment is to reinforce students' understanding of Solidity and smart contract development by having them create a custom ERC-20 token. Students will write a Solidity smart contract to define and deploy their custom token on the Ethereum blockchain's testnet.
+
+Instructions:
+
+Introduction to Token Creation:
+
+Provide students with an introduction to ERC-20 tokens and their importance in the Ethereum ecosystem.
+Explain the key properties of ERC-20 tokens, such as name, symbol, total supply, and functions for transferring tokens.
+Smart Contract Task:
+
+Instruct students to write a Solidity smart contract that defines a custom ERC-20 token.
+Specify the following details for the custom token:
+Name
+Symbol
+Total supply (an initial supply of tokens)
+Decimals (typically 18 for most tokens)
+Any additional features, such as minting or burning functions.
+Token Deployment:
+
+Guide students on how to compile and deploy their custom token smart contract to the Ethereum testnet.
+Ensure they obtain the contract address and transaction details for verification.
+Testing and Interactions:
+
+Instruct students to interact with their deployed token smart contract on the Ethereum testnet.
+Ask them to perform actions such as transferring tokens, checking balances, and utilizing any additional functions they implemented.
+Submission:
+
+Request students to submit a report that includes:
+The Solidity code of their custom ERC-20 token smart contract.
+Screenshots or logs of the deployment process and transaction confirmations.
+Descriptions of interactions with the deployed token smart contract.
+Any challenges encountered during development and testing.
+Grading Criteria:
+
+Smart Contract Development: Evaluate the accuracy and completeness of the ERC-20 token smart contract code.
+Deployment: Assess the correctness of the deployment process and confirmation of successful deployment.
+Interaction: Evaluate the completeness of students' interactions with the deployed token smart contract.
+Documentation: Review the quality and completeness of the submitted report.

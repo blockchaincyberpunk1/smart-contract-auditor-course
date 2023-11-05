@@ -1,0 +1,36 @@
+Access Control Vulnerability
+
+Objective: The objective of this assignment is to illustrate the importance of access control and privilege escalation in smart contracts and guide students in implementing proper access control mechanisms. Students will be provided with a smart contract that exhibits improper access control, allowing unauthorized users to execute privileged functions. They will be tasked with redesigning the contract with improved access control, such as role-based access or permission checks, and then deploying and testing the updated contract.
+
+Instructions:
+
+Introduction to Access Control Vulnerabilities:
+
+Provide students with an introduction to the concept of access control vulnerabilities in smart contracts.
+Explain the potential risks and consequences of improper access control.
+Understanding the Vulnerable Smart Contract:
+
+Provide students with a smart contract written in Solidity that demonstrates improper access control, allowing unauthorized users to execute privileged functions.
+Task students with analyzing the contract to identify instances where improper access control occurs.
+Implementing Improved Access Control:
+
+Instruct students to refactor the vulnerable contract to implement improved access control mechanisms.
+They can consider approaches such as role-based access, permission checks, or other relevant access control patterns.
+Guide them in making the necessary code changes to enforce proper access control.
+Deployment and Testing:
+
+Ask students to deploy the modified smart contract on an Ethereum testnet.
+Instruct them to write test cases to verify that the contract enforces proper access control and prevents unauthorized access to privileged functions.
+Documentation and Reporting:
+
+Request students to document their process in a report, which should include:
+An explanation of the access control vulnerabilities in the original contract.
+Details of how they redesigned the contract to implement improved access control mechanisms.
+Information about the test cases they designed and the results of testing.
+Any additional security best practices they applied.
+Grading Criteria:
+
+Identification of Vulnerabilities: Assess the student's ability to identify improper access control vulnerabilities in the provided contract.
+Access Control Implementation: Evaluate the correctness and effectiveness of the code changes made to implement improved access control.
+Testing: Evaluate the completeness and effectiveness of the test cases, particularly in checking for unauthorized access.
+Documentation: Review the quality and completeness of the submitted report.

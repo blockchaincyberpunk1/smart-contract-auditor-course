@@ -1,0 +1,29 @@
+Blockchain Basics Quiz
+
+Objective: The objective of this assignment is to assess students' understanding of fundamental blockchain concepts and principles. It serves as a foundation for more advanced topics in the Smart Contract Auditor course.
+
+Instructions:
+
+Question Creation:
+
+Create a set of multiple-choice or true/false questions that cover key blockchain fundamentals. Include questions related to topics such as consensus mechanisms, decentralization, immutability, and cryptographic principles.
+Quiz Distribution:
+
+Share the quiz questions with the students through a suitable online platform or document format.
+Set a reasonable time limit for completing the quiz.
+Taking the Quiz:
+
+Instruct students to take the quiz individually, ensuring that they rely solely on their knowledge without external resources.
+Submission:
+
+Ask students to submit their answers through the designated submission method (e.g., an online form, email).
+Evaluation and Feedback:
+
+Evaluate each student's responses, assigning scores for correct answers.
+Provide feedback to students, including explanations for both correct and incorrect answers.
+If desired, hold a review session to discuss the quiz questions and explanations.
+Grading Criteria:
+
+Correctness of Answers: Students receive points for each correct answer.
+Understanding: The quality of explanations and feedback provided to students regarding their answers.
+Timely Submission: Ensure that students submit their quiz answers within the specified timeframe.

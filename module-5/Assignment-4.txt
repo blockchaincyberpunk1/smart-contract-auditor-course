@@ -1,0 +1,39 @@
+ Code Review and Analysis
+
+Objective: The objective of this assignment is to provide students with smart contract code and guide them through the code review and analysis process. Students will review Ethereum smart contract source code files, identify vulnerabilities, and suggest improvements. The assignment aims to develop students' skills in identifying security issues and providing recommendations for secure smart contract development.
+
+Instructions:
+
+Introduction to Code Review and Analysis:
+
+Provide an overview of the assignment's objective, which is to review and analyze smart contract code for vulnerabilities and improvements.
+Emphasize the importance of code review as a fundamental aspect of smart contract auditing.
+Selection of Smart Contract Code:
+
+Offer a collection of Ethereum smart contract source code files, each representing different functionalities or use cases.
+Ensure that the provided code files contain potential vulnerabilities or areas for improvement related to security.
+Code Review and Analysis Process:
+
+Instruct students to choose one or more smart contract code files from the provided collection.
+Guide them through the process of reviewing and analyzing the selected code, which includes:
+Identifying vulnerabilities, security risks, or code quality issues.
+Providing detailed explanations of the identified issues, including potential impacts and attack vectors.
+Suggesting improvements or code modifications to address the identified vulnerabilities and enhance code quality.
+Audit Report Creation:
+
+Task students with creating a comprehensive audit report for each code file they review.
+In the report, students should include:
+An introduction to the code file being reviewed.
+Descriptions of vulnerabilities or issues identified during the review.
+Explanations of the potential impact of each identified issue.
+Detailed recommendations and code modifications to address the issues.
+Any additional comments or observations related to code quality or best practices.
+Submission and Review:
+
+Require students to submit their audit reports for the code files they reviewed.
+Review and assess the quality of the audit reports, including the thoroughness of issue identification and the clarity of recommendations.
+Grading Criteria:
+
+Thoroughness of Code Review: Evaluate the students' ability to identify vulnerabilities, security risks, and code quality issues in the reviewed code.
+Quality of Recommendations: Assess the effectiveness and clarity of the recommendations provided to address the identified issues.
+Clarity and Organization of Reports: Consider the clarity, organization, and completeness of the audit reports.

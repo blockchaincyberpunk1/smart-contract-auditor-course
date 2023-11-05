@@ -1,0 +1,35 @@
+Ethereum Smart Contract Deployment
+
+Objective: The objective of this assignment is to introduce students to Ethereum as a smart contract development platform and guide them through the process of deploying their first smart contract. This assignment provides hands-on experience in setting up a development environment, compiling a smart contract, and deploying it on the Ethereum blockchain.
+
+Instructions:
+
+Smart Contract Template:
+
+Provide students with a basic smart contract template written in Solidity. The template could be a simple token contract or a basic decentralized application (DApp).
+Setting Up the Development Environment:
+
+Instruct students to set up an Ethereum development environment. They can use online tools like Remix or local development environments like Truffle and Ganache.
+Ensure that students have access to an Ethereum testnet (e.g., Ropsten) or a local blockchain for testing purposes.
+Smart Contract Deployment:
+
+Guide students through the following steps:
+Compiling the smart contract code using the chosen development environment.
+Deploying the compiled smart contract to the Ethereum blockchain, either on a testnet or a local blockchain.
+Confirming the successful deployment by obtaining the contract address and transaction details.
+Interacting with the Smart Contract:
+
+Instruct students to interact with the deployed smart contract. They should perform actions such as sending transactions, executing functions, and reading data from the contract.
+Submission:
+
+Request students to submit a report that includes:
+Details of the smart contract they deployed, including its purpose.
+Screenshots or logs of the deployment process.
+Descriptions of interactions with the deployed smart contract.
+Any challenges faced during deployment and interaction.
+Grading Criteria:
+
+Environment Setup: Check if students successfully set up their development environment.
+Smart Contract Deployment: Evaluate the accuracy of the deployment process and confirmation of successful deployment.
+Interaction: Assess the completeness of students' interactions with the deployed smart contract.
+Documentation: Review the quality and completeness of the submitted report.

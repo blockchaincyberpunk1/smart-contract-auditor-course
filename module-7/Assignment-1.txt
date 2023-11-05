@@ -1,0 +1,39 @@
+Audit Finding Documentation
+
+Objective: The objective of this assignment is to teach students how to document audit findings effectively. Students will be provided with a simplified Ethereum smart contract containing known vulnerabilities. They will conduct a security audit of the contract and practice documenting their findings. This assignment aims to enhance students' skills in identifying and reporting vulnerabilities in smart contracts.
+
+Instructions:
+
+Introduction to Audit Finding Documentation:
+
+Begin by explaining the assignment's objective, which is to teach students how to effectively document audit findings during a security assessment.
+Emphasize the importance of clear and comprehensive documentation in the smart contract auditing process.
+Simplified Ethereum Smart Contract:
+
+Provide students with a simplified Ethereum smart contract that intentionally contains known vulnerabilities. The vulnerabilities may include issues such as reentrancy, integer overflow, or access control flaws.
+Ensure that the contract's vulnerabilities are representative of common security issues found in real-world contracts.
+Security Audit:
+
+Instruct students to conduct a thorough security audit of the provided smart contract.
+Task them with analyzing the contract's code to identify and document all vulnerabilities, weaknesses, and issues they discover.
+Audit Findings Documentation:
+
+Require students to create a comprehensive audit report that includes the following components:
+Vulnerability Descriptions: Document each identified vulnerability with a clear and concise description. Include information about the affected code, the nature of the vulnerability, and its potential impact.
+Risk Assessments: Assess the severity and potential consequences of each vulnerability. Use a risk rating or scoring system to categorize vulnerabilities based on their impact and exploitability.
+Suggested Remediations: Provide detailed recommendations for fixing or mitigating each identified vulnerability. Explain how the issues can be addressed to enhance the contract's security.
+Report Format:
+
+Specify the format for the audit report, such as using a template or document structure that includes sections for vulnerability descriptions, risk assessments, and suggested remediations.
+Clarity and Detail:
+
+Emphasize the importance of clear and detailed documentation to ensure that developers and stakeholders can understand the findings and take appropriate actions.
+Submission and Evaluation:
+
+Collect and evaluate students' audit reports, considering the clarity of vulnerability descriptions, the accuracy of risk assessments, and the quality of suggested remediations.
+Grading Criteria:
+
+Clarity of Vulnerability Descriptions: Evaluate the clarity and completeness of students' descriptions of identified vulnerabilities.
+Accuracy of Risk Assessments: Assess the accuracy of students' risk assessments, including their evaluation of the potential impact and exploitability of vulnerabilities.
+Quality of Suggested Remediations: Evaluate the quality and feasibility of students' recommendations for fixing or mitigating vulnerabilities.
+Overall Documentation: Consider the overall quality and completeness of the audit report, including its organization and formatting.

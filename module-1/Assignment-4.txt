@@ -1,0 +1,37 @@
+Smart Contract Development
+
+Objective: The objective of this assignment is to familiarize students with the process of developing a basic smart contract. Through this hands-on task, students will gain practical experience in writing, deploying, and interacting with smart contracts on a blockchain development environment.
+
+Instructions:
+
+Smart Contract Template:
+
+Provide students with a template for a simple smart contract, such as a token contract.
+The template should include essential contract structure, variables, and basic functions, leaving some parts incomplete for students to fill in.
+Completion of the Smart Contract:
+
+Task students with completing the provided smart contract by adding the missing functions, variables, or logic.
+Students should ensure that the contract is functional and adheres to best practices in smart contract development.
+Deployment and Interaction:
+
+Instruct students to deploy their completed smart contract on a blockchain development environment or testnet of their choice (e.g., Ethereum Ropsten, Ganache).
+Require students to interact with the deployed contract by executing functions and transactions.
+Encourage students to document their interactions and any observations during the deployment and interaction process.
+Testing and Validation:
+
+Ask students to perform thorough testing of their smart contract to verify its functionality and security.
+Students should consider testing scenarios where the contract behaves as expected and cases where it might encounter vulnerabilities.
+Code Review and Optimization:
+
+Encourage students to review their smart contract code to identify areas for optimization or security improvements.
+Students should make any necessary enhancements to their code based on their review.
+Submission:
+
+Request students to submit their completed smart contract code, deployment details (e.g., contract address, transaction hashes), and a brief summary of their testing and code review findings.
+Grading Criteria:
+
+Completeness of Smart Contract: Evaluate the extent to which students successfully complete the provided smart contract.
+Deployment and Interaction: Check if students effectively deploy and interact with their smart contract.
+Testing and Validation: Assess the thoroughness of students' testing and validation efforts.
+Code Review and Optimization: Consider the quality of code review and any optimizations made.
+Submission Quality: Review the clarity and completeness of the submitted materials.

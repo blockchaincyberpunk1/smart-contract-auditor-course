@@ -1,0 +1,35 @@
+Secure Design Patterns
+
+Objective: The objective of this assignment is to promote secure design patterns and best practices in smart contract development. Students will implement a secure token contract using well-known patterns like OpenZeppelin's ERC-20. The assignment aims to reinforce their understanding of secure design principles, including access control, safe math, and standardized functions. Students will deploy and test the secure token contract on a blockchain network to ensure it adheres to these principles.
+
+Instructions:
+
+Introduction to Secure Design Patterns:
+
+Provide students with an introduction to the importance of secure design patterns in smart contract development.
+Explain the significance of patterns like OpenZeppelin's ERC-20 in enhancing the security and reliability of smart contracts.
+Secure Token Contract Design:
+
+Outline a secure token contract design using well-established patterns.
+Emphasize the inclusion of access control mechanisms, safe math operations, and standardized functions for user interactions.
+Implementing the Secure Token Contract:
+
+Instruct students to write the code for the token contract based on the design provided.
+They should follow the secure design patterns closely, ensuring proper access control for token transfers and using safe math libraries to prevent vulnerabilities like integer overflow/underflow.
+Deployment and Testing:
+
+Ask students to deploy the secure token contract on a blockchain network of their choice (e.g., Ethereum testnet).
+Provide guidelines for writing comprehensive test cases to verify the contract's functionality and security.
+Encourage students to test various scenarios, including transfers, allowances, and edge cases, to ensure the contract behaves as expected.
+Documentation and Reporting:
+
+Request students to document their implementation process in a report, which should include:
+The code of the secure token contract.
+An explanation of how they applied secure design patterns in the contract.
+Details of the test cases they created and the results of testing.
+Any additional security considerations or best practices they followed.
+Grading Criteria:
+
+Implementation of Secure Design Patterns: Assess the student's ability to implement the secure token contract following the provided design, emphasizing access control, safe math, and standardized functions.
+Testing: Evaluate the quality and completeness of the test cases and the extent to which they cover various contract functionalities.
+Documentation: Review the quality and completeness of the submitted report, including code documentation and explanations of design choices.

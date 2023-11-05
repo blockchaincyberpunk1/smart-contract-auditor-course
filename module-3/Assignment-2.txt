@@ -1,0 +1,36 @@
+Integer Overflow/Underflow Vulnerability
+
+Objective: The objective of this assignment is to educate students on the risks associated with integer overflow and underflow vulnerabilities in smart contracts and how to mitigate these risks. Students will be provided with a vulnerable smart contract that exhibits integer overflow/underflow vulnerabilities. They will be tasked with refactoring the contract to use safe arithmetic operations or checks to prevent these vulnerabilities and then deploying and testing the modified contract.
+
+Instructions:
+
+Introduction to Integer Overflow/Underflow Vulnerabilities:
+
+Provide students with an introduction to the concepts of integer overflow and underflow vulnerabilities in smart contracts.
+Explain the potential risks and consequences of such vulnerabilities.
+Understanding the Vulnerable Smart Contract:
+
+Provide students with a vulnerable smart contract written in Solidity that demonstrates integer overflow/underflow vulnerabilities.
+Task students with analyzing the contract to identify instances where these vulnerabilities may occur.
+Mitigating the Vulnerabilities:
+
+Instruct students to refactor the vulnerable contract to use safe arithmetic operations or checks to prevent integer overflow and underflow.
+Guide them in making the necessary code changes to address the vulnerabilities.
+Deployment and Testing:
+
+Ask students to deploy the modified smart contract on an Ethereum testnet.
+Instruct them to write test cases to verify that the contract no longer suffers from integer-related vulnerabilities.
+Test scenarios should include cases where integer operations could potentially result in overflow or underflow.
+Documentation and Reporting:
+
+Request students to document their process in a report, which should include:
+An explanation of the integer overflow/underflow vulnerabilities in the original contract.
+Details of how they refactored the contract to mitigate these vulnerabilities.
+Information about the test cases they designed and the results of testing.
+Any additional security best practices they applied.
+Grading Criteria:
+
+Identification of Vulnerabilities: Assess the student's ability to identify integer overflow/underflow vulnerabilities in the provided contract.
+Vulnerability Mitigation: Evaluate the correctness and effectiveness of the code changes made to prevent these vulnerabilities.
+Testing: Evaluate the completeness and effectiveness of the test cases, particularly in checking for integer-related issues.
+Documentation: Review the quality and completeness of the submitted report.

@@ -1,0 +1,37 @@
+Ethical Disclosure Process
+
+Objective: The objective of this assignment is to introduce students to responsible disclosure and ethical considerations in security reporting. In this assignment, students will explore the hypothetical scenario of discovering a critical vulnerability in a widely used smart contract and learn how to responsibly report the vulnerability to the contract's developers.
+
+Instructions:
+
+Introduction to Responsible Disclosure:
+
+Begin by explaining the concept of responsible disclosure in the context of cybersecurity and smart contract auditing.
+Emphasize the ethical responsibility of security researchers to report vulnerabilities in a way that protects users and allows developers to address issues before they can be exploited maliciously.
+Hypothetical Scenario:
+
+Describe a hypothetical scenario to set the context for the assignment. For example, you can mention that a student has discovered a critical vulnerability in a widely used Ethereum smart contract.
+Research Responsible Disclosure Practices:
+
+Instruct students to research and familiarize themselves with responsible disclosure practices and guidelines used in the cybersecurity industry. They should explore established frameworks and principles for reporting vulnerabilities.
+Create a Step-by-Step Guide:
+
+Task students with creating a step-by-step guide on how to ethically report the discovered vulnerability to the contract's developers.
+Each step should include clear instructions and considerations for responsible disclosure. Students should address the following points:
+How to identify the correct contact information for the contract's developers or maintainers.
+How to communicate the vulnerability in a clear and concise manner, including providing technical details without exposing the vulnerability to malicious actors.
+How to establish a secure and confidential channel of communication with the developers, such as using encrypted email or secure messaging platforms.
+How to set a reasonable disclosure timeline that allows developers sufficient time to address the issue.
+How to coordinate the public disclosure (if necessary) after the issue has been resolved.
+Ethical Considerations:
+
+Emphasize the importance of ethical considerations throughout the disclosure process. Students should be aware of the potential impact of their findings and the need to protect users' interests.
+Submission and Evaluation:
+
+Collect and evaluate students' step-by-step guides on ethical disclosure processes based on their completeness, clarity, and adherence to responsible disclosure principles.
+Grading Criteria:
+
+Completeness of the Guide: Evaluate whether the guide includes all necessary steps and considerations for responsible disclosure.
+Clarity and Detail: Assess the clarity of instructions and the level of detail provided in each step.
+Ethical Considerations: Consider whether the guide emphasizes ethical considerations and user protection throughout the process.
+Feasibility: Evaluate the feasibility and practicality of the steps outlined in the guide for real-world security reporting scenarios.

@@ -1,0 +1,36 @@
+Static Analysis with Slither
+
+Objective: The objective of this assignment is to introduce students to the Slither tool, which is used for static analysis of smart contract code. Students will be provided with a set of smart contract source code files and will use Slither to perform static analysis. The goal is to identify vulnerabilities within the code, generate a report documenting the issues found, and propose recommended solutions. This assignment aims to develop students' proficiency in utilizing static analysis tools for smart contract auditing.
+
+Instructions:
+
+Introduction to Slither:
+
+Provide students with an overview of the Slither tool and its significance in smart contract auditing.
+Explain the benefits of using static analysis tools to identify vulnerabilities in smart contract code.
+Smart Contract Source Code:
+
+Offer students a set of smart contract source code files for analysis.
+Ensure that the provided code includes various types of vulnerabilities or issues that Slither can detect (e.g., reentrancy, unchecked sends, integer overflow/underflow).
+Static Analysis with Slither:
+
+Instruct students to use the Slither tool to perform static analysis on the provided smart contract code.
+Encourage them to explore different Slither commands and options for comprehensive analysis.
+Task students with identifying and documenting vulnerabilities or issues detected by Slither.
+Vulnerability Report:
+
+Require students to generate a detailed report summarizing the results of their static analysis.
+The report should include:
+A list of identified vulnerabilities or issues.
+Descriptions of each vulnerability, including potential impact and attack scenarios.
+References to the specific lines of code where each issue was found.
+Recommended solutions or fixes for each vulnerability, if applicable.
+Recommended Solutions:
+
+Ask students to propose solutions or code modifications for the identified vulnerabilities.
+Emphasize the importance of providing clear and effective solutions to mitigate the identified issues.
+Grading Criteria:
+
+Use of Slither: Evaluate the student's ability to effectively use the Slither tool to perform static analysis.
+Identification of Vulnerabilities: Assess the accuracy and completeness of vulnerability identification.
+Quality of Report: Review the quality and clarity of the submitted report, including detailed descriptions and proposed solutions.

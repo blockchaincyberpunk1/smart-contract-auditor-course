@@ -1,0 +1,43 @@
+Forum Participation
+
+Objective: The objective of this assignment is to encourage students to actively engage in blockchain security forums, ask questions, share insights, and gain practical knowledge related to blockchain security.
+
+Instructions:
+
+Introduction to Forum Participation:
+
+Begin by explaining the purpose of the assignment, which is to actively engage in blockchain security forums.
+Emphasize the importance of participating in discussions, asking questions, and sharing knowledge to enhance their understanding of blockchain security.
+Providing a List of Forums:
+
+Provide students with a list of reputable blockchain security forums or discussion platforms. Examples may include platforms like Bitcointalk, Ethereum Stack Exchange, or dedicated blockchain security forums.
+Encourage students to explore the list and select a forum that interests them. They should choose a platform where they feel comfortable participating.
+Forum Account Creation:
+
+Instruct students to create an account on the selected forum if they don't already have one.
+Provide guidance on creating a profile, including selecting appropriate usernames and avatars.
+Forum Participation:
+
+Task students with actively participating in discussions on their chosen forum. They should aim to engage in discussions related to blockchain security topics, such as smart contract vulnerabilities, security best practices, or recent security incidents.
+Encourage students to ask thoughtful questions, provide helpful answers, or share their insights based on their knowledge and coursework.
+Forum Interaction Documentation:
+
+Ask students to maintain a record of their forum interactions. They should document the following:
+Dates and times of their posts or comments.
+Titles or links to the discussions they participated in.
+A brief summary of each interaction, including the questions asked, answers provided, or insights shared.
+Any notable knowledge or insights they gained from the forum discussions.
+Report Preparation:
+
+Instruct students to prepare a report summarizing their forum participation experience.
+The report should include the following sections:
+Introduction: Briefly introduce the selected forum and the purpose of participation.
+Forum Interactions: Provide a summary of the interactions, including the discussions participated in and the nature of their contributions.
+Knowledge Gained: Describe the knowledge, insights, or solutions they gained from the forum discussions.
+Reflection: Reflect on the value of forum participation in enhancing their understanding of blockchain security.
+Conclusion: Summarize the key takeaways and experiences from the assignment.
+Grading Criteria:
+
+Active Forum Participation: Assess the level of active participation and engagement in forum discussions.
+Quality of Contributions: Evaluate the quality of questions, answers, and insights shared by students.
+Documentation and Reporting: Consider the completeness and clarity of the report, including the documentation of forum interactions and the reflection on knowledge gained.

@@ -1,0 +1,44 @@
+Advanced Auditing Challenge
+
+Objective: The objective of this assignment is to challenge students with a complex Ethereum smart contract and a series of advanced auditing tasks. Students will be provided with a multifaceted Ethereum smart contract containing various vulnerabilities. They are required to use a combination of formal verification, taint analysis, symbolic execution, and property-based testing to audit the contract thoroughly. The goal is to enhance students' proficiency in identifying and addressing complex smart contract vulnerabilities through advanced auditing techniques.
+
+Instructions:
+
+Introduction to the Advanced Auditing Challenge:
+
+Begin by explaining the assignment's objective, which is to challenge students with a complex Ethereum smart contract and advanced auditing tasks.
+Emphasize the significance of applying multiple auditing techniques to thoroughly assess the contract's security.
+Complex Ethereum Smart Contract:
+
+Provide students with a complex Ethereum smart contract that contains various vulnerabilities, including but not limited to reentrancy, integer overflow, access control, and logical flaws.
+Ensure that the contract represents a real-world scenario with multifaceted functionality.
+Advanced Auditing Techniques:
+
+Instruct students to use a combination of advanced auditing techniques, including:
+Formal verification: Using formal methods to mathematically prove the correctness of the contract.
+Taint analysis: Identifying the flow of tainted data and potential vulnerabilities.
+Symbolic execution: Analyzing the contract's behavior symbolically to uncover vulnerabilities.
+Property-based testing: Creating property-based test cases to validate the contract's functionality and security.
+Audit Process:
+
+Guide students through the audit process, explaining how each auditing technique should be applied to the complex contract.
+Encourage them to be thorough in their assessments and to consider all potential vulnerabilities.
+Audit Report Preparation:
+
+Require students to prepare a comprehensive audit report that includes the following components:
+Findings: Document all vulnerabilities, weaknesses, and issues identified during the audit.
+Remediation Strategies: Propose detailed solutions and fixes for each identified vulnerability.
+Testing Results: Include the outcomes of the various auditing techniques, such as formal verification proofs, taint analysis reports, symbolic execution findings, and property-based testing results.
+Recommendations: Offer recommendations for improving the contract's security and robustness.
+Complexity and Depth:
+
+Emphasize that this assignment is designed to challenge students with a complex and multifaceted contract. Encourage them to delve deep into the auditing process.
+Submission and Evaluation:
+
+Collect and evaluate students' comprehensive audit reports, considering the thoroughness of their assessments, the effectiveness of the applied techniques, and the quality of their recommendations.
+Grading Criteria:
+
+Effectiveness of Auditing Techniques: Assess the effectiveness of students' use of advanced auditing techniques in identifying vulnerabilities.
+Quality of Audit Report: Evaluate the completeness and quality of students' audit reports, including findings, remediation strategies, and testing results.
+Depth of Analysis: Consider the depth of students' analysis of the complex contract and the vulnerabilities identified.
+Recommendations: Assess the quality of students' recommendations for improving the contract's security.

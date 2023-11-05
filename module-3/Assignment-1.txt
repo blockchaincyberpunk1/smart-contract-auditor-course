@@ -1,0 +1,40 @@
+Reentrancy Vulnerability
+
+Objective: The objective of this assignment is to teach students about the reentrancy vulnerability in smart contracts, how it can be exploited, and how to secure a vulnerable contract. Students will be provided with a vulnerable smart contract that demonstrates the reentrancy vulnerability. They will identify and fix the vulnerability to prevent unauthorized withdrawals and deploy the secured contract for testing.
+
+Instructions:
+
+Introduction to Reentrancy Vulnerability:
+
+Provide students with an introduction to the reentrancy vulnerability in smart contracts.
+Explain how reentrancy attacks work and the potential consequences of such attacks.
+Understanding the Vulnerable Smart Contract:
+
+Provide students with a vulnerable smart contract written in Solidity.
+Task students with analyzing the contract to identify the reentrancy vulnerability.
+Exploiting the Vulnerability (Optional):
+
+For an advanced challenge, students can attempt to exploit the vulnerability in the provided contract.
+Instruct them to craft a malicious transaction that exploits the vulnerability to perform unauthorized withdrawals.
+Securing the Smart Contract:
+
+Guide students in fixing the reentrancy vulnerability in the contract's code.
+Instruct them to implement the necessary safeguards to prevent reentrancy attacks.
+Deployment and Testing:
+
+Ask students to deploy the secured smart contract on an Ethereum testnet.
+Instruct them to write test cases to ensure that the contract is no longer susceptible to reentrancy attacks.
+Documentation and Reporting:
+
+Request students to document their process in a report, which should include:
+An explanation of the reentrancy vulnerability in the original contract.
+Details of how they fixed the vulnerability.
+Information about the test cases they designed and the results of testing.
+Any additional security best practices they applied.
+Grading Criteria:
+
+Identification of Vulnerability: Assess the student's ability to identify the reentrancy vulnerability in the provided contract.
+Vulnerability Exploitation (Optional): Evaluate the student's success in exploiting the vulnerability (if attempted).
+Secure Contract Implementation: Assess the correctness of the secure contract implementation.
+Testing: Evaluate the completeness and effectiveness of the test cases.
+Documentation: Review the quality and completeness of the submitted report.

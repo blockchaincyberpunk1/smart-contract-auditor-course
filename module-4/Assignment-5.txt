@@ -1,0 +1,37 @@
+Comparative Analysis of Smart Contract Auditing Tools
+
+Objective: The objective of this assignment is to encourage students to compare and evaluate different automated analysis tools used for smart contract auditing. Students will be provided with several smart contracts, each containing known vulnerabilities. They will use multiple automated analysis tools, such as MythX, Securify, and Slither, to audit these contracts. The assignment aims to develop students' skills in assessing the strengths and weaknesses of various auditing tools and understanding their suitability for different scenarios.
+
+Instructions:
+
+Introduction to Smart Contract Auditing Tools:
+
+Provide an overview of the importance of smart contract auditing in ensuring security.
+Introduce students to various automated analysis tools commonly used for auditing, such as MythX, Securify, Slither, and others.
+Explain that each tool has unique features and capabilities for detecting vulnerabilities.
+Sample Vulnerable Smart Contracts:
+
+Offer students a set of smart contracts, each containing documented vulnerabilities.
+Ensure that the provided contracts cover a range of vulnerability types, such as reentrancy, integer overflow, and access control issues.
+Using Multiple Auditing Tools:
+
+Instruct students to select three or more automated analysis tools from the provided list (e.g., MythX, Securify, Slither).
+Task them with auditing each of the provided smart contracts using the chosen tools.
+Vulnerability Detection and Reporting:
+
+Require students to document and compare the results of each auditing tool for each smart contract.
+Ask them to identify and report on the strengths and weaknesses of each tool in terms of:
+Vulnerability detection accuracy.
+User-friendliness and ease of use.
+False positives/negatives.
+Supported vulnerability types.
+Speed and efficiency of analysis.
+Tool Recommendations:
+
+Based on their comparative analysis, instruct students to recommend which auditing tool(s) they would use for specific types of smart contract audits.
+Encourage them to justify their recommendations with reference to the tool's performance in detecting specific vulnerabilities.
+Grading Criteria:
+
+Quality of Comparative Analysis: Evaluate the depth and quality of the comparative analysis, including the insights provided.
+Tool Recommendations: Assess the rationale behind the tool recommendations and their alignment with the strengths and weaknesses identified.
+Accuracy of Vulnerability Detection: Consider how well students identify and report on vulnerabilities detected by each tool.

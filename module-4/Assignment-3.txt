@@ -1,0 +1,38 @@
+Dynamic Analysis with MythX
+
+Objective: The objective of this assignment is to instruct students on using the MythX platform for dynamic analysis of smart contracts. Students will be provided with a sample smart contract containing hidden vulnerabilities. They will upload the contract to the MythX platform, perform dynamic analysis, and review the MythX analysis report. The goal is to identify vulnerabilities, understand their implications, and propose appropriate fixes. This assignment aims to develop students' proficiency in using dynamic analysis tools to enhance the security of smart contracts.
+
+Instructions:
+
+Introduction to MythX:
+
+Provide students with an overview of the MythX platform and its role in dynamic analysis of smart contracts.
+Explain the importance of dynamic analysis for identifying vulnerabilities that may not be apparent through static analysis alone.
+Sample Vulnerable Smart Contract:
+
+Offer students a sample smart contract that contains hidden vulnerabilities.
+Ensure that the provided contract includes various types of vulnerabilities (e.g., reentrancy, unchecked sends, integer overflow/underflow) that MythX can detect.
+Dynamic Analysis with MythX:
+
+Instruct students to sign up for a MythX account or use a provided MythX account for analysis.
+Guide them through the process of uploading the sample vulnerable smart contract to the MythX platform.
+Task students with configuring the MythX analysis settings, such as specifying the analysis mode (e.g., quick, thorough) and enabling relevant modules.
+MythX Analysis Report:
+
+Require students to review the MythX analysis report generated for the uploaded smart contract.
+Ask them to identify and document vulnerabilities or issues detected by MythX.
+Encourage students to explore the detailed explanations provided in the report.
+Vulnerability Assessment:
+
+Instruct students to assess the severity and potential impact of the identified vulnerabilities.
+Emphasize the importance of understanding the implications of each vulnerability.
+Recommended Fixes:
+
+Task students with proposing solutions or code modifications to address the identified vulnerabilities.
+Encourage students to provide clear and effective fixes that mitigate the vulnerabilities.
+Grading Criteria:
+
+Effective Use of MythX: Evaluate the student's ability to utilize the MythX platform for dynamic analysis.
+Identification of Vulnerabilities: Assess the accuracy and completeness of vulnerability identification.
+Quality of Assessment: Review the quality of the vulnerability assessment, including understanding the impact of vulnerabilities.
+Proposed Solutions: Evaluate the proposed solutions for their effectiveness in mitigating vulnerabilities.

@@ -1,0 +1,36 @@
+Blockchain Application Idea
+
+Objective: The objective of this assignment is to stimulate students' creativity and critical thinking by challenging them to conceptualize a blockchain-based application. Through this task, students will learn to identify real-world problems that can be addressed using blockchain technology and develop innovative solutions.
+
+Instructions:
+
+Problem Identification:
+
+Task students with researching and identifying a real-world problem or challenge that can be effectively solved or improved using blockchain technology.
+Encourage them to focus on a problem area of their interest, such as finance, supply chain, healthcare, or social impact.
+Application Concept:
+
+Instruct students to develop a blockchain-based application concept that addresses the identified problem.
+Require students to provide a detailed description of their application idea, including:
+The purpose and objectives of the application.
+The target users or beneficiaries of the application.
+The potential benefits and impact it can have on the problem area.
+Features and Functionality:
+
+Ask students to outline the key features, functionality, and components of their proposed application.
+Encourage them to think about how blockchain's unique properties (e.g., decentralization, transparency, immutability) can be leveraged to solve the problem effectively.
+Technical Considerations:
+
+Require students to consider technical aspects such as the choice of blockchain platform (e.g., Ethereum, Quorum), smart contract functionality, and data management.
+Students should briefly explain how these technical elements contribute to the application's functionality.
+Presentation or Report:
+
+Request students to present their blockchain application idea either through a written report or an in-class presentation.
+During the presentation, students should effectively communicate their concept, problem statement, potential users, and features.
+Grading Criteria:
+
+Problem Identification: Assess the relevance and significance of the identified problem.
+Application Concept: Evaluate the clarity and completeness of the proposed application idea.
+Features and Functionality: Review the feasibility and innovation of the application's features.
+Technical Considerations: Consider the technical soundness and appropriateness of blockchain elements.
+Presentation or Report: Evaluate the effectiveness of the presentation or written report.

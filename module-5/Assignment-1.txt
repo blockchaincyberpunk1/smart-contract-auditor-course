@@ -1,0 +1,45 @@
+Real-World Smart Contract Audit
+
+Objective: The objective of this assignment is to provide students with hands-on experience in auditing real-world Ethereum smart contracts. By working on actual contracts, students will enhance their auditing skills, learn to identify vulnerabilities, and propose fixes. This assignment prepares students for real-world auditing scenarios and challenges.
+
+Instructions:
+
+Introduction to Real-World Auditing:
+
+Explain the importance of auditing smart contracts in real-world scenarios.
+Emphasize the significance of thorough auditing in ensuring contract security.
+Highlight the potential risks and consequences of vulnerabilities in deployed contracts.
+Selection of Ethereum Smart Contracts:
+
+Provide students with a set of Ethereum smart contracts, each sourced from real-world projects.
+Ensure that the provided contracts have varying degrees of complexity and may contain different types of vulnerabilities.
+Auditing Process:
+
+Instruct students to choose one Ethereum smart contract from the provided set for auditing.
+Guide them through the auditing process, which includes:
+Reviewing the contract's source code.
+Identifying potential vulnerabilities, such as reentrancy, integer overflow, or access control issues.
+Documenting the location, severity, and description of each vulnerability found.
+Proposing fixes or improvements to address identified vulnerabilities.
+Vulnerability Severity Classification:
+
+Task students with classifying the identified vulnerabilities by severity, following a common classification system (e.g., critical, high, medium, low).
+Encourage students to provide justifications for their severity classifications based on the potential impact of each vulnerability.
+Reporting and Recommendations:
+
+Require students to compile their audit findings into a comprehensive report for the selected contract.
+In the report, students should:
+Provide an executive summary of the audit.
+List and describe each vulnerability identified.
+Include their severity classifications and justifications.
+Offer recommended fixes or mitigations for each vulnerability.
+Consider the implications of vulnerabilities on the contract's functionality and security.
+Submission and Presentation:
+
+Ask students to submit their audit reports along with any suggested code changes or fixes.
+Optionally, organize a presentation session where students can discuss their findings and recommendations with the class.
+Grading Criteria:
+
+Quality of Audit: Evaluate the thoroughness and accuracy of the audit, including the identification and classification of vulnerabilities.
+Recommendations: Assess the feasibility and effectiveness of the proposed fixes or mitigations.
+Clarity of Reporting: Consider the clarity and organization of the audit report, including the justifications for severity classifications.

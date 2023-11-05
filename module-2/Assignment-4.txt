@@ -1,0 +1,40 @@
+Voting Smart Contract
+
+Objective: The objective of this assignment is to challenge students to apply their Solidity knowledge by building a simple voting smart contract. Students will implement a smart contract that allows users to cast votes for different options, tally the votes, and declare the winning option. This assignment reinforces their understanding of smart contract development and logic.
+
+Instructions:
+
+Introduction to Voting Smart Contracts:
+
+Provide students with an introduction to voting smart contracts and their real-world applications.
+Explain the basic structure of a voting smart contract, including the concept of options and the voting process.
+Smart Contract Task:
+
+Present students with an outline of a voting smart contract:
+Define a list of voting options (e.g., candidates, proposals).
+Implement functions to cast votes for the available options.
+Create a function to tally the votes and determine the winning option based on the highest vote count.
+Smart Contract Implementation:
+
+Task students with implementing the voting smart contract using Solidity.
+Guide them through writing the necessary functions for voting, tallying, and determining the winner.
+Deployment and Testing:
+
+Instruct students to deploy their voting smart contract to the Ethereum testnet.
+Ask them to perform various testing scenarios, including:
+Casting votes for different options.
+Checking the current vote count for each option.
+Declaring the winning option based on the highest vote count.
+Submission:
+
+Request students to submit a report that includes:
+The Solidity code of their voting smart contract.
+Screenshots or logs of the deployment process and transaction confirmations.
+Descriptions of testing scenarios and their outcomes.
+Any challenges encountered during development and testing.
+Grading Criteria:
+
+Smart Contract Development: Evaluate the accuracy and completeness of the voting smart contract code.
+Deployment: Assess the correctness of the deployment process and confirmation of successful deployment.
+Interaction: Evaluate the completeness of students' interactions with the deployed voting smart contract.
+Documentation: Review the quality and completeness of the submitted report.

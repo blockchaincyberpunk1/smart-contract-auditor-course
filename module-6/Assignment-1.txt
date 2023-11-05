@@ -1,0 +1,39 @@
+Formal Verification Introduction
+
+Objective: The objective of this assignment is to introduce students to formal verification concepts and tools for smart contracts. Students will be provided with a simple Ethereum smart contract containing known vulnerabilities. They will explore and select a formal verification tool (e.g., Solidity formal verification tools, K framework) to perform formal verification on the provided contract. The assignment aims to familiarize students with the principles of formal verification and its application in ensuring smart contract correctness.
+
+Instructions:
+
+Introduction to Formal Verification:
+
+Begin by providing an overview of the assignment's objective, which is to introduce students to formal verification concepts and tools.
+Explain the importance of formal verification in smart contract auditing and how it can help ensure correctness and security.
+Selection of Vulnerable Smart Contract:
+
+Offer a simple Ethereum smart contract with known vulnerabilities. Ensure that the contract contains at least one specific vulnerability that can be addressed through formal verification.
+Formal Verification Tool Selection:
+
+Instruct students to explore and select a formal verification tool of their choice. Some examples include Solidity formal verification tools like Mythril or Manticore, or more advanced tools like the K framework.
+Formal Verification Process:
+
+Guide students through the formal verification process, which includes:
+Identifying the specific vulnerability in the provided contract that they intend to address through formal verification.
+Setting up and configuring the selected formal verification tool.
+Creating formal verification specifications or properties that express the desired correctness conditions related to the vulnerability.
+Running the formal verification tool to verify the correctness of the contract with respect to the specified properties.
+Documentation and Explanation:
+
+Require students to document their formal verification process in detail, including the steps taken, tool configuration, and any challenges encountered.
+Ask them to provide an explanation of the formal verification results, emphasizing whether the contract was verified to be correct in terms of the selected vulnerability.
+Conclusion and Reflection:
+
+Encourage students to reflect on the experience of using formal verification for smart contract auditing. Ask them to discuss the advantages and limitations of formal verification in the context of the assignment.
+Submission and Evaluation:
+
+Request students to submit their formal verification reports, including documentation of the process and results.
+Evaluate the correctness and completeness of their formal verification efforts and the clarity of their explanations.
+Grading Criteria:
+
+Correctness of Verification: Assess whether the formal verification tool successfully verifies the contract's correctness concerning the specified vulnerability.
+Clarity of Documentation: Evaluate the clarity and completeness of students' documentation and explanations of the formal verification process.
+Reflection and Insights: Consider the quality of students' reflections on the advantages and limitations of formal verification for smart contract auditing.

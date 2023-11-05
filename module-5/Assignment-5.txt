@@ -1,0 +1,36 @@
+Vulnerability Mitigation Strategies
+
+Objective: The objective of this assignment is to challenge students to explore and implement different vulnerability mitigation strategies in smart contracts. Students will be provided with a vulnerable smart contract containing multiple issues. They will apply various mitigation techniques to address the vulnerabilities, explain their chosen strategies, implement the fixes, and validate the contract's security. The assignment aims to enhance students' ability to identify and resolve security vulnerabilities effectively.
+
+Instructions:
+
+Introduction to Vulnerability Mitigation:
+
+Provide an overview of the assignment's objective, which is to apply vulnerability mitigation strategies to a vulnerable smart contract.
+Emphasize the importance of understanding and implementing mitigation techniques as part of the smart contract auditing process.
+Selection of Vulnerable Smart Contract:
+
+Offer a vulnerable Ethereum smart contract that contains multiple security issues. Ensure that the contract presents various types of vulnerabilities, such as reentrancy, integer overflow, access control, etc.
+Vulnerability Mitigation Process:
+
+Instruct students to choose the provided vulnerable smart contract for mitigation.
+Guide them through the process of vulnerability mitigation, which includes:
+Identifying and documenting the vulnerabilities present in the contract.
+Researching and selecting appropriate mitigation strategies for each vulnerability. Strategies may include code modifications, access control changes, and safe arithmetic operations.
+Implementing the chosen mitigation strategies in the contract's code.
+Explanation and Rationale:
+
+Require students to provide a clear explanation of the chosen mitigation strategies for each vulnerability. They should justify why each strategy was selected and how it addresses the specific vulnerability.
+Validation and Testing:
+
+Task students with thoroughly testing the mitigated smart contract to ensure that the vulnerabilities have been successfully addressed.
+Instruct them to document the testing process and results, highlighting any issues or challenges encountered during validation.
+Submission and Evaluation:
+
+Ask students to submit both the original vulnerable contract and the mitigated version.
+Evaluate the effectiveness of the mitigation strategies applied, considering whether the vulnerabilities have been properly addressed and the contract's security improved.
+Grading Criteria:
+
+Effectiveness of Mitigation: Assess the success of the chosen mitigation strategies in addressing the identified vulnerabilities.
+Clarity of Explanation: Evaluate the clarity and depth of students' explanations for why they selected specific mitigation strategies.
+Testing and Validation: Consider the thoroughness of testing and validation efforts and whether the contract behaves securely after mitigation.

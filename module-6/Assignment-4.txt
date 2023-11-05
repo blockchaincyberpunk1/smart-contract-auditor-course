@@ -1,0 +1,47 @@
+Property-Based Testing
+
+Objective: The objective of this assignment is to introduce students to property-based testing as an advanced auditing technique. Students will be provided with a set of Ethereum smart contracts with diverse functionalities. They will develop property-based tests using a testing framework (e.g., QuickCheck for Solidity) to identify properties to test and implement test cases to ensure the contracts' correctness. This assignment aims to enhance students' understanding of how property-based testing can be applied to smart contract auditing.
+
+Instructions:
+
+Introduction to Property-Based Testing:
+
+Begin by explaining the assignment's objective, which is to introduce property-based testing as an advanced auditing technique for smart contracts.
+Describe the significance of property-based testing in identifying vulnerabilities and ensuring the correctness of smart contracts.
+Selection of Ethereum Smart Contracts:
+
+Provide students with a set of Ethereum smart contracts, each with distinct functionalities and potential vulnerabilities. Ensure that the contracts are diverse and present various auditing challenges.
+Property Identification and Specification:
+
+Instruct students to identify properties and specifications that are relevant to the selected contracts. These properties should be used to ensure the contracts' correctness and security.
+Encourage students to think critically about potential vulnerabilities and logical properties to validate.
+Property-Based Testing Framework:
+
+Guide students in setting up and using a property-based testing framework suitable for Solidity (e.g., QuickCheck for Solidity). Provide any necessary resources or documentation.
+Test Case Development:
+
+Task students with developing property-based test cases based on the identified properties and specifications. Each test case should aim to validate a specific property or aspect of the contract.
+Ensure that students create a variety of test cases that cover different contract functionalities and potential vulnerabilities.
+Test Execution and Analysis:
+
+Instruct students to execute their property-based tests on the provided smart contracts.
+Ask them to analyze the results and identify any contract-specific issues or vulnerabilities that the tests reveal.
+Documentation and Reporting:
+
+Require students to document their property-based testing process, including the identified properties, test cases, and analysis of results.
+Encourage students to provide explanations for each test case and its relevance to contract security.
+Reflection and Insights:
+
+Encourage students to reflect on their experience with property-based testing. Ask them to discuss the benefits and challenges of using this technique in smart contract auditing.
+Conclusion and Recommendations:
+
+Request students to provide conclusions based on their testing and analysis. Ask them to propose any recommendations for improving the contracts' security based on their findings.
+Submission and Evaluation:
+
+Collect and evaluate students' reports, considering the effectiveness of their property-based testing, the quality of test cases, and the depth of their analysis.
+Grading Criteria:
+
+Effectiveness of Property-Based Testing: Assess the effectiveness of students' property-based testing in identifying vulnerabilities.
+Quality of Test Cases: Evaluate the quality and relevance of students' property-based test cases.
+Clarity of Documentation: Assess the clarity and completeness of students' documentation and reports.
+Reflection and Insights: Consider the quality of students' reflections on the use of property-based testing.

@@ -1,0 +1,43 @@
+Remediation and Hardening
+
+Objective: The objective of this assignment is to encourage students to practice mitigating vulnerabilities and hardening smart contracts. Students will work with a set of smart contracts that contain known vulnerabilities and will be tasked with modifying these contracts to address the identified issues. The assignment aims to reinforce the importance of identifying and fixing vulnerabilities in smart contract development.
+
+Instructions:
+
+Introduction to Remediation and Hardening:
+
+Provide an overview of the assignment's objective, which is to identify and address vulnerabilities in smart contracts.
+Emphasize the significance of fixing vulnerabilities to enhance the security and reliability of smart contracts.
+Selection of Vulnerable Smart Contracts:
+
+Offer a set of Ethereum smart contracts, each with documented vulnerabilities (e.g., integer overflow).
+Ensure that the vulnerabilities in the contracts are well-documented and clearly stated.
+Remediation Process:
+
+Instruct students to choose one or more vulnerable smart contracts from the provided set.
+Guide them through the process of identifying and addressing the vulnerabilities in the selected contracts, which includes:
+Identifying and understanding the vulnerabilities present in the code.
+Modifying the contract code to implement fixes or mitigations for the identified vulnerabilities.
+Ensuring that the modifications do not introduce new issues or break existing functionality.
+Testing and Validation:
+
+Task students with thoroughly testing the remediated smart contracts to verify that the vulnerabilities have been effectively mitigated.
+Encourage students to create test cases that specifically target the vulnerabilities to ensure they are no longer exploitable.
+Require students to document the testing process and the outcomes.
+Documentation and Reporting:
+
+Ask students to compile their findings and remediation efforts into a detailed report for each contract.
+In the report, students should include:
+Descriptions of the vulnerabilities in the selected contracts.
+Explanations of the modifications made to remediate the vulnerabilities.
+Details of the testing process and results.
+Any challenges or considerations encountered during the remediation process.
+Submission and Review:
+
+Require students to submit their remediation reports along with any modified code.
+Review and assess the effectiveness of the remediation efforts based on the documentation provided.
+Grading Criteria:
+
+Successful Remediation: Evaluate the students' ability to effectively mitigate vulnerabilities in the selected contracts.
+Quality of Testing: Assess the thoroughness of the testing process, including the creation of relevant test cases.
+Clarity of Reporting: Consider the clarity and organization of the remediation reports, including the explanations of vulnerability fixes.

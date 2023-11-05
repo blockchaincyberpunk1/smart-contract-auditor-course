@@ -1,0 +1,44 @@
+Formal Verification in Practice
+
+Objective: The objective of this assignment is to challenge students to apply formal verification techniques to a real-world smart contract. Students will be provided with a moderately complex Ethereum smart contract that contains documented vulnerabilities. They will choose a formal verification tool of their choice and use it to verify the correctness of the contract, with a focus on a critical vulnerability. This assignment aims to allow students to gain practical experience in applying formal verification techniques to enhance smart contract security.
+
+Instructions:
+
+Introduction to Formal Verification in Practice:
+
+Begin by introducing the assignment's objective, which is to apply formal verification techniques to a real-world smart contract.
+Explain the importance of formal verification in identifying and mitigating vulnerabilities in smart contracts.
+Selection of Moderately Complex Smart Contract:
+
+Provide students with a moderately complex Ethereum smart contract that contains documented vulnerabilities. Ensure that the contract is sufficiently complex to challenge their formal verification skills.
+Choice of Formal Verification Tool:
+
+Instruct students to choose a formal verification tool of their choice. They can select from a range of tools available, such as Mythril, Manticore, or the K framework.
+Formal Verification Process:
+
+Guide students through the formal verification process, which includes:
+Identifying and understanding the critical vulnerability within the provided contract that they intend to address through formal verification.
+Setting up and configuring their chosen formal verification tool.
+Creating formal verification specifications or properties that express the desired correctness conditions related to the critical vulnerability.
+Running the formal verification tool to verify the correctness of the contract concerning the specified vulnerability.
+Detailed Verification Report:
+
+Require students to document their formal verification efforts in a comprehensive report. The report should include:
+An explanation of the critical vulnerability targeted for verification.
+Detailed steps taken during the formal verification process.
+Any challenges encountered and how they were addressed.
+A summary of the verification results, including whether the contract was verified as secure or if any issues were identified.
+Reflection and Insights:
+
+Encourage students to reflect on the experience of applying formal verification to a real-world smart contract. Ask them to discuss the effectiveness of the chosen tool and the impact of the verification process on the contract's security.
+Conclusion and Recommendations:
+
+Request students to provide conclusions based on their formal verification results. They should recommend any necessary fixes or improvements to address the identified vulnerabilities.
+Submission and Evaluation:
+
+Collect and evaluate students' formal verification reports, considering the correctness of their verification process, the clarity of documentation, and the quality of their reflections and recommendations.
+Grading Criteria:
+
+Correctness of Verification: Assess whether the formal verification tool successfully verifies the contract's correctness concerning the critical vulnerability.
+Clarity of Documentation: Evaluate the clarity and completeness of students' documentation and explanations of the formal verification process.
+Reflection and Insights: Consider the quality of students' reflections on the effectiveness of formal verification and their recommendations for improving contract security.

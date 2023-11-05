@@ -1,0 +1,54 @@
+Mock Security Disclosure
+
+Objective: The objective of this assignment is to simulate a real-world security disclosure scenario for students. In this assignment, students will play the roles of security researchers and contract developers, allowing them to experience the process of identifying vulnerabilities, responsibly disclosing them, and coordinating remediation.
+
+Instructions:
+
+Introduction to the Mock Scenario:
+
+Begin by explaining the purpose of the assignment, which is to simulate a security disclosure scenario.
+Provide students with a simplified Ethereum smart contract that contains hidden vulnerabilities. Make sure that the vulnerabilities are not immediately obvious.
+Role Assignment:
+
+Assign students to one of two roles: "Security Researcher" or "Contract Developer."
+Explain that security researchers will be responsible for identifying and responsibly disclosing vulnerabilities, while contract developers will be tasked with addressing the reported vulnerabilities.
+Identification of Vulnerabilities: (Security Researchers)
+
+Security researchers (students in this role) will review the provided smart contract to identify vulnerabilities. They should use the knowledge and skills they have acquired in the course to identify and document issues.
+Responsible Disclosure: (Security Researchers)
+
+Once vulnerabilities are identified, security researchers should draft responsible disclosure reports for each vulnerability they find.
+In these reports, researchers should:
+Clearly describe the vulnerability and its potential impact.
+Suggest remediation strategies if applicable.
+Provide a reasonable timeline for resolution.
+Maintain an ethical tone throughout the report, emphasizing the importance of user protection.
+Response to Disclosures: (Contract Developers)
+
+Contract developers (students in this role) will receive the responsible disclosure reports from the security researchers.
+They should review the reports, acknowledge receipt, and create remediation plans for each reported vulnerability.
+Developers should prioritize and categorize vulnerabilities based on their severity and potential impact.
+Communication and Coordination: (Both Roles)
+
+Encourage students in both roles to engage in simulated communication and coordination throughout the assignment.
+Security researchers may follow up with developers, and developers may seek clarification on reported issues or discuss potential fixes.
+Emphasize the importance of ethical and professional communication between the two parties.
+Resolution and Reporting: (Contract Developers)
+
+Contract developers will implement the remediation plans and resolve the reported vulnerabilities in the smart contract.
+They should provide security researchers with updates on their progress and confirm when the issues are resolved.
+Final Reporting: (Security Researchers)
+
+Security researchers should verify the fixes provided by the developers and confirm that the vulnerabilities have been addressed.
+Researchers should provide a final report indicating that the vulnerabilities have been resolved and that the contract is now secure.
+Submission and Evaluation:
+
+Collect and evaluate the responsible disclosure reports, remediation plans, and final reports from both security researchers and contract developers.
+Assess students' ability to effectively identify vulnerabilities, communicate responsibly, and coordinate the remediation process.
+Grading Criteria:
+
+Identification of Vulnerabilities: Evaluate the accuracy and completeness of vulnerability identification by security researchers.
+Responsible Disclosure: Assess the quality of the responsible disclosure reports, including vulnerability descriptions and proposed remediations.
+Response to Disclosures: Evaluate the effectiveness of contract developers' responses and remediation plans.
+Communication and Coordination: Consider the professionalism and effectiveness of communication between both roles.
+Resolution and Reporting: Assess whether vulnerabilities were successfully resolved and confirmed by security researchers.

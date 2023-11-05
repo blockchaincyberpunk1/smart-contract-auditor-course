@@ -1,0 +1,49 @@
+Taint Analysis and Symbolic Execution
+
+Objective: The objective of this assignment is to introduce students to advanced auditing techniques, specifically taint analysis and symbolic execution. Students will be provided with a vulnerable Ethereum smart contract that contains complex logic. They will perform a taint analysis and symbolic execution to identify potential vulnerabilities and propose remediation strategies based on their analysis. This assignment aims to deepen students' understanding of auditing methods for complex smart contracts.
+
+Instructions:
+
+Introduction to Advanced Auditing Techniques:
+
+Begin by introducing the assignment's objective, which is to explore advanced auditing techniques: taint analysis and symbolic execution.
+Explain the importance of these techniques in identifying vulnerabilities in complex smart contracts.
+Selection of Complex Smart Contract:
+
+Provide students with a complex Ethereum smart contract that contains vulnerabilities. Ensure that the contract's logic is intricate enough to challenge their taint analysis and symbolic execution skills.
+Taint Analysis and Symbolic Execution Process:
+
+Guide students through the taint analysis and symbolic execution process, which includes:
+An explanation of what taint analysis and symbolic execution are and how they work.
+Identifying and understanding the vulnerabilities within the provided contract that they intend to address through these techniques.
+Setting up the necessary tools or environments for taint analysis and symbolic execution.
+Performing taint analysis to identify the flow of tainted data and its potential impact.
+Using symbolic execution to explore different execution paths and identify vulnerabilities.
+Documenting the results of the analysis, including any identified vulnerabilities and their potential consequences.
+Proposed Remediation Strategies:
+
+Require students to propose remediation strategies based on the vulnerabilities identified through taint analysis and symbolic execution.
+Ask them to explain how the proposed fixes would address the vulnerabilities and enhance the contract's security.
+Detailed Audit Report:
+
+Instruct students to compile their findings and analysis into a comprehensive audit report. The report should include:
+An introduction to the assignment and the selected contract.
+Details of the taint analysis and symbolic execution process.
+Documentation of identified vulnerabilities and their potential impact.
+Proposed remediation strategies with explanations.
+A conclusion summarizing the audit findings and the overall impact on the contract's security.
+Reflection and Insights:
+
+Encourage students to reflect on their experience with taint analysis and symbolic execution. Ask them to discuss the benefits and challenges of using these techniques in smart contract auditing.
+Conclusion and Recommendations:
+
+Request students to provide conclusions based on their analysis and propose any additional recommendations for improving the contract's security.
+Submission and Evaluation:
+
+Collect and evaluate students' audit reports, considering the thoroughness of their analysis, the effectiveness of proposed remediation strategies, and the quality of their reflections and recommendations.
+Grading Criteria:
+
+Effectiveness of Analysis: Evaluate the effectiveness of students' taint analysis and symbolic execution in identifying vulnerabilities.
+Quality of Remediation Strategies: Assess the quality and relevance of proposed remediation strategies.
+Clarity of Documentation: Evaluate the clarity and completeness of students' audit reports and explanations.
+Reflection and Insights: Consider the quality of students' reflections on the use of advanced auditing techniques.

@@ -1,0 +1,35 @@
+Blockchain Research Paper Review
+
+Objective: The objective of this assignment is to encourage students to develop critical thinking and research skills by analyzing a blockchain-related research paper. Through this assignment, students will gain an understanding of current trends and advancements in blockchain technology.
+
+Instructions:
+
+Select a Research Paper:
+
+Provide students with a list of research papers or academic articles related to blockchain or smart contract technology.
+Ask each student to choose one paper from the list for their review.
+Read and Analyze the Paper:
+
+Instruct students to thoroughly read and analyze the selected research paper.
+Encourage them to focus on the paper's methodology, key findings, and contributions to the field of blockchain technology.
+Write a Review or Summary:
+
+Task students with writing a review or summary of the paper they selected.
+In their review, students should include:
+A brief introduction to the paper's topic and purpose.
+An analysis of the methodology used in the research.
+A summary of the paper's key findings and contributions.
+Critical assessment of the paper's strengths and weaknesses.
+Reflection on the paper's relevance to blockchain technology and potential implications for smart contract auditing.
+Presentation (Optional):
+
+If desired, students can present their paper reviews to the class, sharing their insights and sparking discussions.
+Submission:
+
+Request students to submit their written paper reviews.
+Grading Criteria:
+
+Paper Selection: Check if students choose an appropriate research paper relevant to blockchain or smart contracts.
+Depth of Analysis: Evaluate the depth of analysis in the review, including the discussion of methodology and critical assessment.
+Clarity of Writing: Assess the clarity, organization, and cohesiveness of the written review.
+Relevance and Reflection: Consider the students' ability to reflect on the paper's relevance to blockchain technology and smart contract auditing.

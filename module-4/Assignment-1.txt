@@ -1,0 +1,40 @@
+Manual Code Review
+
+Objective: The objective of this assignment is to familiarize students with the process of manually reviewing smart contract code for vulnerabilities. Students will be provided with a smart contract that contains known vulnerabilities, such as reentrancy or unchecked sends. They will conduct a thorough manual code review to identify these vulnerabilities, document their findings, and propose fixes. This assignment aims to develop the critical skills required for auditing smart contracts effectively.
+
+Instructions:
+
+Introduction to Manual Code Review:
+
+Provide students with an overview of the importance of manual code reviews in smart contract auditing.
+Explain the significance of identifying and mitigating vulnerabilities to enhance the security of blockchain applications.
+Vulnerable Smart Contract:
+
+Present students with a smart contract that contains known vulnerabilities, which could include but are not limited to:
+Reentrancy vulnerability.
+Unchecked sends.
+Integer overflow/underflow.
+Access control issues.
+Any other common vulnerabilities found in smart contracts.
+Manual Code Review:
+
+Instruct students to carefully review the provided smart contract's code line by line.
+Task them with identifying and documenting any vulnerabilities they find.
+Encourage students to provide explanations for each identified vulnerability, describing how it can be exploited and its potential impact.
+Vulnerability Mitigation:
+
+Require students to propose fixes or code modifications for each vulnerability they identified.
+Emphasize the importance of secure coding practices and best practices in mitigating these vulnerabilities.
+Report and Documentation:
+
+Ask students to compile their findings and proposed fixes into a comprehensive report.
+The report should include:
+A list of identified vulnerabilities with descriptions.
+Proposed fixes or code modifications for each vulnerability.
+Explanations of how the proposed fixes mitigate the vulnerabilities.
+Any additional security considerations or best practices recommended.
+Grading Criteria:
+
+Identification of Vulnerabilities: Assess the student's ability to identify vulnerabilities accurately within the provided smart contract.
+Proposed Fixes: Evaluate the quality and effectiveness of the proposed fixes or code modifications for each vulnerability.
+Documentation: Review the quality and completeness of the submitted report, including clear explanations and justifications for findings and proposed fixes.

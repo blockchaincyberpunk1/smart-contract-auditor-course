@@ -1,0 +1,36 @@
+Front-Running Protection
+
+Objective: The objective of this assignment is to teach students about front-running attacks in smart contracts and guide them in implementing protections against such attacks. Students will be provided with a vulnerable smart contract, which is susceptible to front-running, such as a decentralized exchange contract. They will be tasked with adding mechanisms like order batching or price oracles to mitigate front-running risks and subsequently deploying and testing the enhanced contract to demonstrate front-running protection.
+
+Instructions:
+
+Introduction to Front-Running Attacks:
+
+Provide students with an introduction to front-running attacks in the context of smart contracts.
+Explain the concept of front-running and the potential consequences for users of vulnerable contracts.
+Understanding the Vulnerable Smart Contract:
+
+Provide students with a smart contract written in Solidity that exhibits vulnerability to front-running attacks, such as a decentralized exchange contract with front-running risks.
+Task students with analyzing the contract to identify how and where front-running can occur.
+Implementing Front-Running Protection:
+
+Instruct students to refactor the vulnerable contract to implement protections against front-running.
+They can consider strategies such as order batching, utilizing price oracles, or other relevant techniques to mitigate front-running risks.
+Guide them in making the necessary code changes to enhance the contract's security.
+Deployment and Testing:
+
+Ask students to deploy the modified smart contract on an Ethereum testnet.
+Instruct them to write test cases that simulate front-running scenarios and verify that the contract successfully prevents front-running attacks.
+Documentation and Reporting:
+
+Request students to document their process in a report, which should include:
+An explanation of the front-running vulnerabilities in the original contract.
+Details of how they modified the contract to implement front-running protection mechanisms.
+Information about the test cases they designed and the results of testing.
+Any additional security best practices they applied to mitigate front-running risks.
+Grading Criteria:
+
+Identification of Vulnerabilities: Assess the student's ability to identify front-running vulnerabilities in the provided contract.
+Front-Running Protection Implementation: Evaluate the correctness and effectiveness of the code changes made to implement front-running protection.
+Testing: Evaluate the completeness and effectiveness of the test cases, particularly in simulating front-running scenarios.
+Documentation: Review the quality and completeness of the submitted report.

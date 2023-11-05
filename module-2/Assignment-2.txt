@@ -1,0 +1,42 @@
+Binance Smart Chain (BSC) Development
+
+Objective: The objective of this assignment is to familiarize students with Binance Smart Chain (BSC) as an alternative platform for smart contract development. Students will explore the BSC ecosystem, understand its compatibility with Ethereum tools, and gain hands-on experience in writing, deploying, and testing a smart contract on the BSC testnet.
+
+Instructions:
+
+Introduction to Binance Smart Chain:
+
+Provide students with an overview of Binance Smart Chain, its architecture, and its role in the blockchain ecosystem.
+Highlight the compatibility of BSC with Ethereum, including support for Solidity smart contracts and Ethereum development tools.
+Setting Up the Development Environment:
+
+Instruct students to set up a development environment that allows them to interact with BSC.
+Explain how they can connect to the BSC network using tools like Remix or MetaMask.
+Ensure students have access to Binance Smart Chain's testnet (e.g., Testnet BSC).
+Smart Contract Task:
+
+Provide students with a specific smart contract task, such as creating a custom token on BSC.
+Guide them through the process of writing the smart contract code in Solidity, considering the similarities and differences between Ethereum and BSC.
+Emphasize best practices for security and efficiency in smart contract development.
+Smart Contract Deployment:
+
+Instruct students on how to compile and deploy their smart contract to the BSC testnet.
+Ensure they can confirm the successful deployment by obtaining the contract address and transaction details on BSC's testnet explorer.
+Testing and Interactions:
+
+Guide students in testing their deployed smart contract by interacting with it on the BSC testnet.
+Encourage them to perform actions such as token transfers or other contract-specific functions to validate its functionality.
+Submission:
+
+Request students to submit a report that includes:
+Details of the smart contract they developed on BSC, including its purpose.
+Screenshots or logs of the deployment process and transaction confirmations.
+Descriptions of interactions with the deployed smart contract.
+Any challenges faced during development and testing.
+Grading Criteria:
+
+Environment Setup: Check if students successfully set up their development environment for BSC.
+Smart Contract Development: Evaluate the accuracy and quality of the smart contract code.
+Deployment: Assess the correctness of the deployment process and confirmation of successful deployment.
+Interaction: Evaluate the completeness of students' interactions with the deployed smart contract.
+Documentation: Review the quality and completeness of the submitted report.

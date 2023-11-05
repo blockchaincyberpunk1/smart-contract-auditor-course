@@ -1,0 +1,44 @@
+Vulnerability Exploitation
+
+Objective: The objective of this assignment is to challenge students to gain practical experience by simulating the exploitation of vulnerabilities in a vulnerable smart contract. By doing so, students will deepen their understanding of smart contract vulnerabilities and learn how to exploit them in a controlled environment. Additionally, they will explore potential mitigation strategies to address these vulnerabilities.
+
+Instructions:
+
+Introduction to Vulnerability Exploitation:
+
+Provide an overview of the assignment's objective, which is to simulate the exploitation of vulnerabilities in a controlled environment.
+Emphasize the importance of understanding vulnerabilities from both an auditing and an attacker's perspective.
+Selection of a Vulnerable Smart Contract:
+
+Offer a vulnerable Ethereum smart contract with known issues, such as reentrancy or unchecked sends.
+Ensure that the vulnerabilities in the contract are well-documented.
+Exploitation Process:
+
+Instruct students to choose the provided vulnerable smart contract for exploitation.
+Guide them through the process of exploiting the identified vulnerabilities, which includes:
+Crafting malicious transactions or interactions to exploit the vulnerabilities.
+Demonstrating how each vulnerability can be abused to achieve unauthorized actions or gains.
+Recording their actions and observations during the exploitation process.
+Mitigation Strategies:
+
+Task students with proposing mitigation strategies to address the vulnerabilities exploited.
+Encourage them to explore potential fixes or code modifications that would prevent the vulnerabilities from being exploited.
+Require students to provide detailed explanations for each proposed mitigation.
+Exploitation Report:
+
+Ask students to compile their findings and exploitation process into a comprehensive report.
+In the report, students should include:
+A description of the vulnerabilities in the selected contract.
+A step-by-step account of the exploitation process, including transaction details.
+Demonstrations of the consequences of exploiting each vulnerability.
+Proposed mitigation strategies and explanations for each.
+Considerations for developers and auditors to prevent such vulnerabilities.
+Submission and Discussion:
+
+Require students to submit their exploitation reports along with any code snippets or modifications used.
+Optionally, organize a discussion or presentation session where students can share their experiences and insights from the exploitation exercise.
+Grading Criteria:
+
+Successful Exploitation: Evaluate the students' ability to exploit the vulnerabilities in the provided contract effectively.
+Quality of Mitigation Strategies: Assess the feasibility and effectiveness of the proposed fixes or mitigations.
+Clarity of Reporting: Consider the clarity and organization of the exploitation report, including the step-by-step account of the exploitation process.

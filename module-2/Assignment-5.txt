@@ -1,0 +1,39 @@
+Cross-Platform Compatibility
+
+Objective: The objective of this assignment is to encourage students to explore cross-platform compatibility by deploying a smart contract on multiple blockchain networks. Students will create a simple smart contract in Solidity and deploy it on both Ethereum and Binance Smart Chain (or another compatible network). This assignment helps students understand the nuances of deploying contracts on different platforms.
+
+Instructions:
+
+Introduction to Cross-Platform Compatibility:
+
+Provide an introduction to the concept of cross-platform compatibility in the context of smart contracts.
+Explain the importance of ensuring that smart contracts can run on multiple blockchain networks.
+Smart Contract Development:
+
+Task students with creating a simple smart contract using Solidity. The contract can be a basic token contract or a lottery contract.
+Instruct students to write the Solidity code for the contract, including its functionality.
+Deployment on Ethereum:
+
+Guide students in deploying the smart contract on the Ethereum blockchain. They should use an Ethereum testnet for this deployment.
+Explain the deployment process, including the use of development tools like Remix or Truffle.
+Deployment on Binance Smart Chain (BSC) or Another Network:
+
+Instruct students to deploy the same smart contract on Binance Smart Chain (or another compatible network of your choice).
+Guide them through the deployment process specific to the chosen network.
+Comparison and Contrast:
+
+Ask students to compare and contrast their experiences deploying the smart contract on both Ethereum and the chosen network.
+Have them consider factors such as gas costs, transaction speed, and ease of deployment.
+Documentation:
+
+Request students to document their experiences in a report that includes:
+The Solidity code of the smart contract.
+Screenshots or logs of the deployment process on both Ethereum and the chosen network.
+A comparison of deployment experiences, including gas costs and transaction confirmation times.
+Any challenges or differences they encountered during deployment.
+Grading Criteria:
+
+Smart Contract Development: Evaluate the quality and functionality of the smart contract.
+Deployment: Assess the correctness of the deployment process on both Ethereum and the chosen network.
+Comparison: Evaluate the depth and accuracy of the comparison between the two deployments.
+Documentation: Review the quality and completeness of the submitted report.
